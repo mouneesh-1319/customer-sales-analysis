@@ -209,8 +209,8 @@ By organizing transaction-level data into sales, product, customer, and country 
 
 ## Author
 
-**Vedhasree**
+**Mouneesh**
 
 Aspiring Data Analyst | Python | SQL | Power BI
 
-GitHub: [vedha135](https://github.com/vedha135)
+GitHub: [mouneesh1319](https://github.com/mouneesh-1319)
